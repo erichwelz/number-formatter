@@ -1,0 +1,22 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "simple number formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+  "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erichwelz/number-formatter.git"
+  },
+  "author": "Erich Welz <erichwelz@gmail.com> (http://welz.ca)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erichwelz/number-formatter/issues"
+  },
+  "homepage": "https://github.com/erichwelz/number-formatter#readme"
+}
